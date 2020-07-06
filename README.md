@@ -1,6 +1,7 @@
-# Pentaprism Logo
-The official logo repo for Pentaprism.
+# Pentaprism Branding
+The official branding repo for Pentaprism.
 
+## Logo
 * `Editables/final/pentaprism_final.psd` contains the final logo with the pentagon colour layers merged.
 * `Editables/pentaprism_logo-separate layers.xcf` contains the original pentagon colour layers. (Use GIMP :P)
 * `Dump/` contains some intermediate versions of the logo.
