@@ -8,6 +8,6 @@ The official branding repo for Pentaprism.
 * `logo/_intermediate/gifs/` contains some animations that've been created while creating the final launch animation.
 * `logo/` contains the final logo in the required formats.
 
-**Logo designed by: Shivansh Rakesh***
-***GIF designed by: Ahish Deshpande, Shivansh Rakesh
+***Logo designed by:*** **Shivansh Rakesh** \
+***GIF designed by:*** **Ahish Deshpande, Shivansh Rakesh***
 
